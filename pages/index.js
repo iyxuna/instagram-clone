@@ -141,7 +141,7 @@ export const getServerSideProps = async ctx=>{
     const user = ctx.req.user ? ctx.req.user.user_id : "undefined";
     const followings = ctx.req.user ? ctx.req.user.followings : "undefined";
     const profile = await axios.get(`http://localhost:3000/auth?user=${user}`);
-    const post = await axios.get(`http://localhost:3000/post/${user}/${followings}`);
+    const post = await axios.get(`http://localhost:3000/post?user=${user}&followings=${followings}`);
 
     // console.log("user: ", user)
     // console.log("followings: ", followings)
