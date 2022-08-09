@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f253184d-d34a-43f3-87d9-5fedad6f2aa1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/b62a99e1-3bf3-4879-8d11-79927c4243e3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources/b62a99e1-3bf3-4879-8d11-79927c4243e3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/e526c2a0-a1a1-4016-b8d5-fd821609e9df.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../express-default" beforeDir="false" afterPath="$PROJECT_DIR$/../express-default" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/pages/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/pages/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/pages/signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/pages/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/pages/write.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/lib/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/lib/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/models/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/models/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/server/routes/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/server/routes/post.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CskG31vdgQ6hwzaDlbrh16REbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/iyxuna/study/express/instagram-clone-cording",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f253184d-d34a-43f3-87d9-5fedad6f2aa1" name="Changes" comment="" />
+      <created>1659598580645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659598580645</updated>
+      <workItem from="1659598582501" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
